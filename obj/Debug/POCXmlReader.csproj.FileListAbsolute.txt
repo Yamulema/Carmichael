@@ -44,8 +44,14 @@ C:\Users\Yamilet Contreras\source\repos\POCXmlReader\POCXmlReader\bin\Newtonsoft
 C:\Users\Yamilet Contreras\source\repos\POCXmlReader\POCXmlReader\bin\Antlr3.Runtime.pdb
 C:\Users\Yamilet Contreras\source\repos\POCXmlReader\POCXmlReader\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\Users\Yamilet Contreras\source\repos\POCXmlReader\POCXmlReader\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Yamilet Contreras\source\repos\POCXmlReader\POCXmlReader\obj\Debug\POCXmlReader.csprojAssemblyReference.cache
 C:\Users\Yamilet Contreras\source\repos\POCXmlReader\POCXmlReader\obj\Debug\POCXmlReader.csproj.CoreCompileInputs.cache
 C:\Users\Yamilet Contreras\source\repos\POCXmlReader\POCXmlReader\obj\Debug\POCXmlReader.csproj.CopyComplete
 C:\Users\Yamilet Contreras\source\repos\POCXmlReader\POCXmlReader\obj\Debug\POCXmlReader.dll
 C:\Users\Yamilet Contreras\source\repos\POCXmlReader\POCXmlReader\obj\Debug\POCXmlReader.pdb
+C:\Users\Yamilet Contreras\source\repos\POCXmlReader\POCXmlReader\obj\Debug\POCXmlReader.csprojAssemblyReference.cache
+C:\Users\Yamilet Contreras\source\repos\POCXmlReader\POCXmlReader\bin\System.Net.Http.Formatting.dll
+C:\Users\Yamilet Contreras\source\repos\POCXmlReader\POCXmlReader\bin\System.Web.Http.dll
+C:\Users\Yamilet Contreras\source\repos\POCXmlReader\POCXmlReader\bin\System.Web.Http.WebHost.dll
+C:\Users\Yamilet Contreras\source\repos\POCXmlReader\POCXmlReader\bin\System.Net.Http.Formatting.xml
+C:\Users\Yamilet Contreras\source\repos\POCXmlReader\POCXmlReader\bin\System.Web.Http.xml
+C:\Users\Yamilet Contreras\source\repos\POCXmlReader\POCXmlReader\bin\System.Web.Http.WebHost.xml

@@ -1,0 +1,45 @@
+<p>
+  <a [routerLink]="" (click)="startReadingXML()" class="btn btn-primary btn-lg">Start</a>
+</p>
+
+<div class="container parent">
+  <div class="row">
+    <div id="container" class="jumbotron">
+      <h1>Test Read XML</h1>
+
+      <label>Number of Records Found: </label>
+      {{totalRecords}}
+
+    </div>
+  </div>
+  <div id="loader-wrapper" *ngIf="showLoader">
+    <div id="loader">
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-body">
+
+    <div class="table-responsive">
+      <table class="table table-bordered" *ngIf="records && records.length">
+        <thead>
+          <tr>
+            <th>File Number</th>
+            <th>Country of Origin</th>
+            <th>Entry Port</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let record of records">
+            <td>{{ record.FileNumber }}</td>
+            <td>{{ record.CountryOrigin }}</td>
+            <td>{{ record.EntryPort }}</td>
+          </tr>
+
+        </tbody>
+      </table>
+    </div>
+
+  </div>
+</div>
